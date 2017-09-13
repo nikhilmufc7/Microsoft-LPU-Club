@@ -475,5 +475,20 @@
 
 function team() {
 	 window.location.href="team.html";
-    console.log("clicked");
+}
+
+function ourEvent() {
+	 window.location.href="http://www.microsoftlpu.com/#fh5co-testimonials";
+}
+
+function home() {
+	 window.location.href="http://www.microsoftlpu.com/";
+}
+
+function about() {
+	 window.location.href="http://www.microsoftlpu.com/#fh5co-about";
+}
+
+function contactus() {
+	 window.location.href="http://www.microsoftlpu.com/#fh5co-contact";
 }
