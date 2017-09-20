@@ -492,3 +492,7 @@ function about() {
 function contactus() {
 	 window.location.href="http://www.microsoftlpu.com/#fh5co-contact";
 }
+
+function gallery() {
+	 window.location.href="http://www.microsoftlpu.com/#fh5co-work";
+}
